@@ -1,0 +1,40 @@
+{
+      "cSpell.words": [
+            "appbar",
+            "appinvite",
+            "appspot",
+            "aqgbp",
+            "cupertino",
+            "Cupertino",
+            "DDTW",
+            "Dera",
+            "googleusercontent",
+            "haha",
+            "Jurica",
+            "mobilesdk",
+            "Naman",
+            "nqsredadt",
+            "Olym",
+            "Ranawat",
+            "RGBO",
+            "Rivaan",
+            "Schyler",
+            "Sikandar",
+            "vsqpr",
+            "whatsappui",
+            "Woah",
+            "Xbqi"
+      ],
+      "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/*.freezed.dart": false,
+            "**/*.g.dart": false,
+            "**/*.gitkeep": false
+      },
+      "explorerExclude.backup": null
+}
